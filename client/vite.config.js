@@ -10,6 +10,9 @@ export default defineConfig({
         secure: false,
       },
     },
+    build: {
+      outDir: 'dist', // Ensure this matches the output directory you're setting in Vercel
+    },
   },
 
   plugins: [react()],
