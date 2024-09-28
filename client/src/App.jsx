@@ -35,3 +35,13 @@ export default function App() {
     </BrowserRouter>
   );
 }
+
+
+
+// echo "# Estate" >> README.md
+// git init
+// git add README.md
+// git commit -m "first commit"
+// git branch -M main
+// git remote add origin https://github.com/Mansi523/Estate.git
+// git push -u origin main
